@@ -8,3 +8,4 @@ bs-config.json
 plugins/plugins.json
 bun.lockb
 config.json
+.env
